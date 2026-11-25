@@ -1,0 +1,1 @@
+0 * * * * /home/ujjawal/linux-scripting-assignment/sysinfo.sh >> /home/ujjawal/linux-scripting-assignment/reports/cron.log 2>&1
